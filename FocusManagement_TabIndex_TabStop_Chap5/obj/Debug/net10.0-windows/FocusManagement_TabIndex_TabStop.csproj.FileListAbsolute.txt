@@ -1,0 +1,16 @@
+D:\FocusManagement_TabIndex_TabStop\bin\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.exe
+D:\FocusManagement_TabIndex_TabStop\bin\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.deps.json
+D:\FocusManagement_TabIndex_TabStop\bin\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.runtimeconfig.json
+D:\FocusManagement_TabIndex_TabStop\bin\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.dll
+D:\FocusManagement_TabIndex_TabStop\bin\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.pdb
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.Form1.resources
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.csproj.GenerateResource.cache
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.GeneratedMSBuildEditorConfig.editorconfig
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.AssemblyInfoInputs.cache
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.AssemblyInfo.cs
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.csproj.CoreCompileInputs.cache
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.dll
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\refint\FocusManagement_TabIndex_TabStop.dll
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.pdb
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\FocusManagement_TabIndex_TabStop.genruntimeconfig.cache
+D:\FocusManagement_TabIndex_TabStop\obj\Debug\net10.0-windows\ref\FocusManagement_TabIndex_TabStop.dll

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\gdi_color_point_ rectangle_region_chap6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\gdi_color_point_ rectangle_region_chap6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\gdi_color_point_ rectangle_region_chap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A98D786-3A79-4B0D-B43C-A0DEDC248520}|GDI_Color_Point_ Rectangle_Region_Chap6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:09:35.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:08:31.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:08:12.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\GDI_Color_Point_ Rectangle_Region_Chap6\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:07:06.368Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
