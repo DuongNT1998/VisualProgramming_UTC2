@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLySanPham_EFCore_Chap8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formdanhmucsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formdanhmucsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|D:\\QuanLySanPham_EFCore_Chap8\\forms\\formdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formdanhmucsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|d:\\quanlysanpham_efcore_chap8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|D:\\QuanLySanPham_EFCore_Chap8\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4275DF04-250C-437D-2564-EC1C94714650}|QuanLySanPham_EFCore_Chap8.csproj|solutionrelative:forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormSanPham.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormSanPham.cs [Design]",
+              "RelativeToolTip": "Forms\\FormSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:09:38.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDanhMucSanPham.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormDanhMucSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDanhMucSanPham.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormDanhMucSanPham.cs",
+              "RelativeToolTip": "Forms\\FormDanhMucSanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:09:58.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSanPham.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormSanPham.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormSanPham.cs",
+              "RelativeToolTip": "Forms\\FormSanPham.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAqwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:10:16.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDanhMucSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormDanhMucSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDanhMucSanPham.Designer.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormDanhMucSanPham.Designer.cs",
+              "RelativeToolTip": "Forms\\FormDanhMucSanPham.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:07:30.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormSanPham.Designer.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormSanPham.Designer.cs",
+              "RelativeToolTip": "Forms\\FormSanPham.Designer.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAowB0BAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:17:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDanhMucSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormDanhMucSanPham.cs",
+              "RelativeDocumentMoniker": "Forms\\FormDanhMucSanPham.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormDanhMucSanPham.cs [Design]",
+              "RelativeToolTip": "Forms\\FormDanhMucSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:08:13.092Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.Designer.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormMain.Designer.cs",
+              "RelativeToolTip": "Forms\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:17:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormMain.cs [Design]",
+              "RelativeToolTip": "Forms\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:06:54.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "Forms\\FormMain.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Forms\\FormMain.cs",
+              "RelativeToolTip": "Forms\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:06:43.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\QuanLySanPham_EFCore_Chap8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\QuanLySanPham_EFCore_Chap8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:06:20.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

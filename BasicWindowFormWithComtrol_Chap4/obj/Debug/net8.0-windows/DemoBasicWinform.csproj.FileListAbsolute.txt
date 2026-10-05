@@ -1,0 +1,16 @@
+D:\DemoBasicWinform\bin\Debug\net8.0-windows\DemoBasicWinform.exe
+D:\DemoBasicWinform\bin\Debug\net8.0-windows\DemoBasicWinform.deps.json
+D:\DemoBasicWinform\bin\Debug\net8.0-windows\DemoBasicWinform.runtimeconfig.json
+D:\DemoBasicWinform\bin\Debug\net8.0-windows\DemoBasicWinform.dll
+D:\DemoBasicWinform\bin\Debug\net8.0-windows\DemoBasicWinform.pdb
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.Form1.resources
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.csproj.GenerateResource.cache
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.AssemblyInfoInputs.cache
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.AssemblyInfo.cs
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.csproj.CoreCompileInputs.cache
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.dll
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\refint\DemoBasicWinform.dll
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.pdb
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\DemoBasicWinform.genruntimeconfig.cache
+D:\DemoBasicWinform\obj\Debug\net8.0-windows\ref\DemoBasicWinform.dll

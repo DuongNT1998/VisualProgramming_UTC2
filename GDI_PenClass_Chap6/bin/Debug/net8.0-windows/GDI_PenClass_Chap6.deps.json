@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GDI_PenClass_Chap6/1.0.0": {
+        "runtime": {
+          "GDI_PenClass_Chap6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GDI_PenClass_Chap6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

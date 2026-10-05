@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FocusManagement_TabIndex_TabStop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C2E30B-5925-4C9A-941C-6E61214B94AB}|FocusManagement_TabIndex_TabStop.csproj|d:\\focusmanagement_tabindex_tabstop\\formlaphoadon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43C2E30B-5925-4C9A-941C-6E61214B94AB}|FocusManagement_TabIndex_TabStop.csproj|solutionrelative:formlaphoadon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C2E30B-5925-4C9A-941C-6E61214B94AB}|FocusManagement_TabIndex_TabStop.csproj|d:\\focusmanagement_tabindex_tabstop\\formlaphoadon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C2E30B-5925-4C9A-941C-6E61214B94AB}|FocusManagement_TabIndex_TabStop.csproj|solutionrelative:formlaphoadon .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C2E30B-5925-4C9A-941C-6E61214B94AB}|FocusManagement_TabIndex_TabStop.csproj|d:\\focusmanagement_tabindex_tabstop\\formlaphoadon .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C2E30B-5925-4C9A-941C-6E61214B94AB}|FocusManagement_TabIndex_TabStop.csproj|solutionrelative:formlaphoadon .designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Formlaphoadon .Designer.cs",
+              "DocumentMoniker": "D:\\FocusManagement_TabIndex_TabStop\\Formlaphoadon .Designer.cs",
+              "RelativeDocumentMoniker": "Formlaphoadon .Designer.cs",
+              "ToolTip": "D:\\FocusManagement_TabIndex_TabStop\\Formlaphoadon .Designer.cs",
+              "RelativeToolTip": "Formlaphoadon .Designer.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAUwAoBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:46:25.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Formlaphoadon .cs",
+              "DocumentMoniker": "D:\\FocusManagement_TabIndex_TabStop\\Formlaphoadon .cs",
+              "RelativeDocumentMoniker": "Formlaphoadon .cs",
+              "ToolTip": "D:\\FocusManagement_TabIndex_TabStop\\Formlaphoadon .cs",
+              "RelativeToolTip": "Formlaphoadon .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:46:23.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Formlaphoadon .cs [Design]",
+              "DocumentMoniker": "D:\\FocusManagement_TabIndex_TabStop\\Formlaphoadon .cs",
+              "RelativeDocumentMoniker": "Formlaphoadon .cs",
+              "ToolTip": "D:\\FocusManagement_TabIndex_TabStop\\Formlaphoadon .cs [Design]",
+              "RelativeToolTip": "Formlaphoadon .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T11:45:45.846Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\adonet_crud_chap91\\adonet_crud_chap91\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|solutionrelative:adonet_crud_chap91\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\adonet_crud_chap91\\adonet_crud_chap91\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|solutionrelative:adonet_crud_chap91\\formproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\adonet_crud_chap91\\adonet_crud_chap91\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|solutionrelative:adonet_crud_chap91\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\adonet_crud_chap91\\adonet_crud_chap91\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|solutionrelative:adonet_crud_chap91\\formcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\adonet_crud_chap91\\adonet_crud_chap91\\formcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D02C92C-9272-47DA-B3A8-10C67915021F}|ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91.csproj|solutionrelative:adonet_crud_chap91\\formcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCategory.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormCategory.cs",
+              "RelativeDocumentMoniker": "ADONet_CRUD_Chap91\\FormCategory.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormCategory.cs",
+              "RelativeToolTip": "ADONet_CRUD_Chap91\\FormCategory.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv1YAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:34:18.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormCategory.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormCategory.cs",
+              "RelativeDocumentMoniker": "ADONet_CRUD_Chap91\\FormCategory.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormCategory.cs [Design]",
+              "RelativeToolTip": "ADONet_CRUD_Chap91\\FormCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:34:15.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProduct.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormProduct.cs",
+              "RelativeDocumentMoniker": "ADONet_CRUD_Chap91\\FormProduct.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormProduct.cs [Design]",
+              "RelativeToolTip": "ADONet_CRUD_Chap91\\FormProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:33:41.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormProduct.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormProduct.cs",
+              "RelativeDocumentMoniker": "ADONet_CRUD_Chap91\\FormProduct.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormProduct.cs",
+              "RelativeToolTip": "ADONet_CRUD_Chap91\\FormProduct.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAIAwwP4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:26:40.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormCategory.Designer.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormCategory.Designer.cs",
+              "RelativeDocumentMoniker": "ADONet_CRUD_Chap91\\FormCategory.Designer.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\ADONet_CRUD_Chap91\\ADONet_CRUD_Chap91\\FormCategory.Designer.cs",
+              "RelativeToolTip": "ADONet_CRUD_Chap91\\FormCategory.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAiwHYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:21:27.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

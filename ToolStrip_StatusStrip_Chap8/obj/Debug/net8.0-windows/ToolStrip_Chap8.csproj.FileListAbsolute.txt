@@ -1,0 +1,16 @@
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\bin\Debug\net8.0-windows\ToolStrip_Chap8.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\bin\Debug\net8.0-windows\ToolStrip_Chap8.deps.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\bin\Debug\net8.0-windows\ToolStrip_Chap8.runtimeconfig.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\bin\Debug\net8.0-windows\ToolStrip_Chap8.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\bin\Debug\net8.0-windows\ToolStrip_Chap8.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.Form1.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.csproj.GenerateResource.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.AssemblyInfoInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.AssemblyInfo.cs
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\refint\ToolStrip_Chap8.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ToolStrip_Chap8.genruntimeconfig.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\ToolStrip_Chap8\obj\Debug\net8.0-windows\ref\ToolStrip_Chap8.dll
