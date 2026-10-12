@@ -1,0 +1,32 @@
+D:\KeyBoradEvent\bin\Debug\net8.0-windows\KeyBoradEvent.exe
+D:\KeyBoradEvent\bin\Debug\net8.0-windows\KeyBoradEvent.deps.json
+D:\KeyBoradEvent\bin\Debug\net8.0-windows\KeyBoradEvent.runtimeconfig.json
+D:\KeyBoradEvent\bin\Debug\net8.0-windows\KeyBoradEvent.dll
+D:\KeyBoradEvent\bin\Debug\net8.0-windows\KeyBoradEvent.pdb
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.Form1.resources
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.csproj.GenerateResource.cache
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.AssemblyInfoInputs.cache
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.AssemblyInfo.cs
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.csproj.CoreCompileInputs.cache
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.dll
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\refint\KeyBoradEvent.dll
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.pdb
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\KeyBoradEvent.genruntimeconfig.cache
+D:\KeyBoradEvent\obj\Debug\net8.0-windows\ref\KeyBoradEvent.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\bin\Debug\net8.0-windows\KeyBoradEvent.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\bin\Debug\net8.0-windows\KeyBoradEvent.deps.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\bin\Debug\net8.0-windows\KeyBoradEvent.runtimeconfig.json
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\bin\Debug\net8.0-windows\KeyBoradEvent.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\bin\Debug\net8.0-windows\KeyBoradEvent.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.Form1.resources
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.csproj.GenerateResource.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.AssemblyInfoInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.AssemblyInfo.cs
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\refint\KeyBoradEvent.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\KeyBoradEvent.genruntimeconfig.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình trực quan\Code demo LT\KeyBoradEvent_Chap5\obj\Debug\net8.0-windows\ref\KeyBoradEvent.dll

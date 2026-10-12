@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" DoublePass="true" ReportInfo.Created="10/12/2026 00:55:51" ReportInfo.Modified="10/12/2026 01:04:00" ReportInfo.CreatorVersion="2026.2.8.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="ChiTiet" ReferenceName="ChiTiet" DataType="System.Collections.Generic.List`1[[Tao_Xuat_Report_Chap9.Models.ChiTietDong, Tao_Xuat_Report_Chap9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" Enabled="true">
+      <Column Name="STT" DataType="System.Int32"/>
+      <Column Name="TenSanPham" DataType="System.String"/>
+      <Column Name="SoLuong" DataType="System.Int32"/>
+      <Column Name="DonGia" DataType="System.Decimal"/>
+      <Column Name="ThanhTien" DataType="System.Decimal"/>
+    </BusinessObjectDataSource>
+    <Parameter Name="TenCuaHang" DataType="System.String" AsString="CỬA HÀNG DEMO CHƯƠNG 8"/>
+    <Parameter Name="SoHD" DataType="System.String" AsString="HD000012"/>
+    <Parameter Name="NgayLap" DataType="System.String" AsString="10/10/2026 11:00"/>
+    <Parameter Name="TenKhachHang" DataType="System.String" AsString="Công ty TNHH Thương mại Ánh Dương"/>
+    <Parameter Name="DienThoai" DataType="System.String" AsString="02838123456"/>
+    <Parameter Name="DiaChi" DataType="System.String" AsString="256 Điện Biên Phủ, Quận Bình Thạnh, TP.HCM"/>
+    <Parameter Name="GhiChu" DataType="System.String" AsString="Hóa đơn nhiều dòng - dùng để thử in nhiều trang"/>
+    <Total Name="TongTien" Expression="[ChiTiet.ThanhTien]" Evaluator="Data1" PrintOn="ReportSummary1"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="37.8">
+      <TextObject Name="Text11" Left="47.25" Top="9.45" Width="94.5" Height="18.9" Text="[SoHD]" Font="Arial, 10pt"/>
+      <TextObject Name="Text12" Left="207.9" Top="9.45" Width="94.5" Height="18.9" Text="[NgayLap]" Font="Arial, 10pt"/>
+      <TextObject Name="Text13" Left="368.55" Top="9.45" Width="94.5" Height="18.9" Text="[TenKhachHang]" Font="Arial, 10pt"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="41" Width="718.2" Height="56.7">
+      <TextObject Name="Text2" Left="18.9" Width="94.5" Height="18.9" Text="STTt&#13;&#10;" Font="Arial, 10pt"/>
+      <TextObject Name="Text4" Left="141.75" Width="94.5" Height="18.9" Text="TenSanPham" Font="Arial, 10pt"/>
+      <TextObject Name="Text6" Left="274.05" Width="94.5" Height="18.9" Text="SoLuong" Font="Arial, 10pt"/>
+      <TextObject Name="Text8" Left="406.35" Width="94.5" Height="18.9" Text="DonGia" Font="Arial, 10pt"/>
+      <TextObject Name="Text10" Left="538.65" Width="94.5" Height="18.9" Text="ThanhTien" Font="Arial, 10pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="100.9" Width="718.2" Height="37.8" DataSource="ChiTiet">
+      <TextObject Name="Text1" Left="18.9" Width="94.5" Height="18.9" Text="[ChiTiet.STT]" Font="Arial, 10pt"/>
+      <TextObject Name="Text3" Left="141.75" Width="94.5" Height="18.9" Text="[ChiTiet.TenSanPham]" Font="Arial, 10pt"/>
+      <TextObject Name="Text5" Left="274.05" Width="94.5" Height="18.9" Text="[ChiTiet.SoLuong]" Font="Arial, 10pt"/>
+      <TextObject Name="Text7" Left="406.35" Width="94.5" Height="18.9" Text="[ChiTiet.DonGia]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text9" Left="538.65" Width="94.5" Height="18.9" Text="[ChiTiet.ThanhTien]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 10pt" Trimming="EllipsisCharacter"/>
+    </DataBand>
+    <ReportSummaryBand Name="ReportSummary1" Top="141.9" Width="718.2" Height="37.8">
+      <TextObject Name="Text14" Left="179.55" Top="9.45" Width="94.5" Height="18.9" Text="[TongTien]" Font="Arial, 10pt"/>
+      <TextObject Name="Text15" Left="37.8" Top="9.45" Width="94.5" Height="18.9" Text="Tổng cộng:" Font="Arial, 10pt"/>
+    </ReportSummaryBand>
+    <PageFooterBand Name="PageFooter1" Top="182.9" Width="718.2" Height="37.8"/>
+  </ReportPage>
+</Report>
