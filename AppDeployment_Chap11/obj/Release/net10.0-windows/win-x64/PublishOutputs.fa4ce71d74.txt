@@ -1,0 +1,2 @@
+D:\AppDeployment_Chap11\bin\Release\net10.0-windows\win-x64\publish\AppDeployment_Chap11.pdb
+D:\AppDeployment_Chap11\bin\Release\net10.0-windows\win-x64\publish\AppDeployment_Chap11.exe

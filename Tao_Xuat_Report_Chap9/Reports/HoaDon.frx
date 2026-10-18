@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" DoublePass="true" ReportInfo.Created="10/12/2026 00:55:51" ReportInfo.Modified="10/12/2026 09:35:33" ReportInfo.CreatorVersion="2026.2.8.0">
+  <Dictionary>
+    <BusinessObjectDataSource Name="ChiTiet" ReferenceName="ChiTiet" DataType="System.Collections.Generic.List`1[[Tao_Xuat_Report_Chap9.Models.ChiTietDong, Tao_Xuat_Report_Chap9, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]" Enabled="true">
+      <Column Name="STT" DataType="System.Int32"/>
+      <Column Name="TenSanPham" DataType="System.String"/>
+      <Column Name="SoLuong" DataType="System.Int32"/>
+      <Column Name="DonGia" DataType="System.Decimal"/>
+      <Column Name="ThanhTien" DataType="System.Decimal"/>
+    </BusinessObjectDataSource>
+    <Parameter Name="TenCuaHang" DataType="System.String" AsString="CỬA HÀNG DEMO CHƯƠNG 8"/>
+    <Parameter Name="SoHD" DataType="System.String" AsString="HD000012"/>
+    <Parameter Name="NgayLap" DataType="System.String" AsString="10/10/2026 11:00"/>
+    <Parameter Name="TenKhachHang" DataType="System.String" AsString="Công ty TNHH Thương mại Ánh Dương"/>
+    <Parameter Name="DienThoai" DataType="System.String" AsString="02838123456"/>
+    <Parameter Name="DiaChi" DataType="System.String" AsString="256 Điện Biên Phủ, Quận Bình Thạnh, TP.HCM"/>
+    <Parameter Name="GhiChu" DataType="System.String" AsString="Hóa đơn nhiều dòng - dùng để thử in nhiều trang"/>
+    <Total Name="TongTien" Expression="[ChiTiet.ThanhTien]" Evaluator="Data1" PrintOn="PageFooter1"/>
+    <Total Name="Total" Expression="[ChiTiet.ThanhTien]" Evaluator="Data1" PrintOn="PageFooter1"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Watermark.Font="Arial, 60pt">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="37.8">
+      <TextObject Name="Text1" Left="47.25" Top="9.45" Width="444.15" Height="18.9" Text="BÁO CÁO DOANH THU THÁNG 10/2026&#13;&#10;" HorzAlign="Center" Font="Bodoni MT Black, 14pt, style=Bold" TextFill.Color="DarkRed"/>
+      <TextObject Name="Text14" Left="567" Top="9.45" Width="151.2" Height="18.9" Text="[Date]" HorzAlign="Center" Font="Arial, 10pt, style=Bold" TextFill.Color="Olive"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="41" Width="718.2" Height="37.8">
+      <TextObject Name="Text2" Left="-9.45" Top="9.45" Width="94.5" Height="18.9" Text="STT" HorzAlign="Center" Font="Arial, 14pt" TextFill.Color="Blue"/>
+      <TextObject Name="Text3" Left="103.95" Top="9.45" Width="151.2" Height="18.9" Text="Tên sản phẩm" HorzAlign="Center" Font="Arial, 14pt" TextFill.Color="Blue"/>
+      <TextObject Name="Text4" Left="292.95" Top="9.45" Width="94.5" Height="18.9" Text="Số lượng" HorzAlign="Center" Font="Arial, 14pt" TextFill.Color="Blue"/>
+      <TextObject Name="Text5" Left="415.8" Top="9.45" Width="94.5" Height="18.9" Text="Đơn giá" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 14pt" TextFill.Color="Blue" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text6" Left="548.1" Top="9.45" Width="132.3" Height="18.9" Text="Thành tiền&#13;&#10;" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 14pt" TextFill.Color="Blue" Trimming="EllipsisCharacter"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="82" Width="718.2" Height="56.7" DataSource="ChiTiet">
+      <TextObject Name="Text7" Top="18.9" Width="94.5" Height="18.9" Text="[ChiTiet.STT]" HorzAlign="Center" Font="Arial, 12pt"/>
+      <TextObject Name="Text8" Left="122.85" Top="18.9" Width="94.5" Height="18.9" Text="[ChiTiet.TenSanPham]" HorzAlign="Center" Font="Arial, 12pt"/>
+      <TextObject Name="Text9" Left="283.5" Top="18.9" Width="94.5" Height="18.9" Text="[ChiTiet.SoLuong]" HorzAlign="Center" Font="Arial, 12pt"/>
+      <TextObject Name="Text10" Left="415.8" Top="18.9" Width="94.5" Height="18.9" Text="[ChiTiet.DonGia]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 12pt" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text11" Left="538.65" Top="18.9" Width="170.1" Height="18.9" Text="[ChiTiet.ThanhTien]" Format="Currency" Format.UseLocale="true" Format.DecimalDigits="2" HorzAlign="Right" WordWrap="false" Font="Arial, 12pt" Trimming="EllipsisCharacter"/>
+    </DataBand>
+    <ReportSummaryBand Name="ReportSummary1" Top="141.9" Width="718.2" Height="548.1" StartNewPage="true">
+      <MSChartObject Name="MSChart1" Left="9.45" Top="9.45" Width="699.3" Height="189" DataSource="ChiTiet" ChartData="PENoYXJ0IFNpemU9IjM2MCwgMjkwIiBCb3JkZXJsaW5lQ29sb3I9IkRhcmtHcmF5IiBCb3JkZXJsaW5lV2lkdGg9IjIiIEJvcmRlcmxpbmVEYXNoU3R5bGU9IlNvbGlkIj4NCiAgPFNlcmllcz4NCiAgICA8U2VyaWVzIE5hbWU9IlNlcmllczEiIExlZ2VuZD0iRGVmYXVsdCIgWFZhbHVlVHlwZT0iU3RyaW5nIiBZVmFsdWVUeXBlPSJEb3VibGUiIENoYXJ0QXJlYT0iRGVmYXVsdCIgRm9udD0iTWljcm9zb2Z0IFNhbnMgU2VyaWYsIDhwdCI+DQogICAgICA8UG9pbnRzPg0KICAgICAgICA8RGF0YVBvaW50IFlWYWx1ZXM9IjEiIEF4aXNMYWJlbD0iQSIgLz4NCiAgICAgICAgPERhdGFQb2ludCBZVmFsdWVzPSIzIiBBeGlzTGFiZWw9IkIiIC8+DQogICAgICAgIDxEYXRhUG9pbnQgWVZhbHVlcz0iMiIgQXhpc0xhYmVsPSJDIiAvPg0KICAgICAgICA8RGF0YVBvaW50IFlWYWx1ZXM9IjQiIEF4aXNMYWJlbD0iRCIgLz4NCiAgICAgIDwvUG9pbnRzPg0KICAgIDwvU2VyaWVzPg0KICA8L1Nlcmllcz4NCiAgPExlZ2VuZHM+DQogICAgPExlZ2VuZCBOYW1lPSJEZWZhdWx0IiBJc1RleHRBdXRvRml0PSJGYWxzZSI+DQogICAgPC9MZWdlbmQ+DQogIDwvTGVnZW5kcz4NCiAgPFRpdGxlcz4NCiAgICA8VGl0bGUgTmFtZT0iVGl0bGUxIiBWaXNpYmxlPSJGYWxzZSI+DQogICAgPC9UaXRsZT4NCiAgPC9UaXRsZXM+DQogIDxDaGFydEFyZWFzPg0KICAgIDxDaGFydEFyZWEgTmFtZT0iRGVmYXVsdCI+DQogICAgICA8QXhpc1kgSXNMYWJlbEF1dG9GaXQ9IkZhbHNlIj4NCiAgICAgICAgPE1ham9yR3JpZCBMaW5lQ29sb3I9IjY0LCA2NCwgNjQsIDY0IiAvPg0KICAgICAgPC9BeGlzWT4NCiAgICAgIDxBeGlzWCBJc0xhYmVsQXV0b0ZpdD0iRmFsc2UiPg0KICAgICAgICA8TWFqb3JHcmlkIExpbmVDb2xvcj0iNjQsIDY0LCA2NCwgNjQiIC8+DQogICAgICA8L0F4aXNYPg0KICAgICAgPEF4aXNYMiBJc0xhYmVsQXV0b0ZpdD0iRmFsc2UiPg0KICAgICAgICA8TWFqb3JHcmlkIExpbmVDb2xvcj0iNjQsIDY0LCA2NCwgNjQiIC8+DQogICAgICA8L0F4aXNYMj4NCiAgICAgIDxBeGlzWTIgSXNMYWJlbEF1dG9GaXQ9IkZhbHNlIj4NCiAgICAgICAgPE1ham9yR3JpZCBMaW5lQ29sb3I9IjY0LCA2NCwgNjQsIDY0IiAvPg0KICAgICAgPC9BeGlzWTI+DQogICAgPC9DaGFydEFyZWE+DQogIDwvQ2hhcnRBcmVhcz4NCiAgPEJvcmRlclNraW4gU2tpblN0eWxlPSJFbWJvc3MiIC8+DQo8L0NoYXJ0Pg==">
+        <MSChartSeries Name="Series2" XValue="[ChiTiet.TenSanPham]" YValue1="[ChiTiet.ThanhTien]"/>
+      </MSChartObject>
+      <MSChartObject Name="MSChart2" Left="56.7" Top="236.25" Width="557.55" Height="292.95" DataSource="ChiTiet" ChartData="PENoYXJ0IFNpemU9IjM2MCwgMjkwIiBCb3JkZXJsaW5lQ29sb3I9IkRhcmtHcmF5IiBCb3JkZXJsaW5lV2lkdGg9IjIiIEJvcmRlcmxpbmVEYXNoU3R5bGU9IlNvbGlkIj4NCiAgPFNlcmllcz4NCiAgICA8U2VyaWVzIE5hbWU9IlNlcmllczEiIExlZ2VuZD0iRGVmYXVsdCIgWFZhbHVlVHlwZT0iU3RyaW5nIiBZVmFsdWVUeXBlPSJEb3VibGUiIENoYXJ0VHlwZT0iUGllIiBDaGFydEFyZWE9IkRlZmF1bHQiIEZvbnQ9Ik1pY3Jvc29mdCBTYW5zIFNlcmlmLCA4cHQiPg0KICAgICAgPFBvaW50cz4NCiAgICAgICAgPERhdGFQb2ludCBZVmFsdWVzPSIxIiBBeGlzTGFiZWw9IkEiIC8+DQogICAgICAgIDxEYXRhUG9pbnQgWVZhbHVlcz0iMyIgQXhpc0xhYmVsPSJCIiAvPg0KICAgICAgICA8RGF0YVBvaW50IFlWYWx1ZXM9IjIiIEF4aXNMYWJlbD0iQyIgLz4NCiAgICAgICAgPERhdGFQb2ludCBZVmFsdWVzPSI0IiBBeGlzTGFiZWw9IkQiIC8+DQogICAgICA8L1BvaW50cz4NCiAgICA8L1Nlcmllcz4NCiAgPC9TZXJpZXM+DQogIDxMZWdlbmRzPg0KICAgIDxMZWdlbmQgTmFtZT0iRGVmYXVsdCIgSXNUZXh0QXV0b0ZpdD0iRmFsc2UiPg0KICAgIDwvTGVnZW5kPg0KICA8L0xlZ2VuZHM+DQogIDxUaXRsZXM+DQogICAgPFRpdGxlIE5hbWU9IlRpdGxlMSIgVmlzaWJsZT0iRmFsc2UiPg0KICAgIDwvVGl0bGU+DQogIDwvVGl0bGVzPg0KICA8Q2hhcnRBcmVhcz4NCiAgICA8Q2hhcnRBcmVhIE5hbWU9IkRlZmF1bHQiPg0KICAgICAgPEF4aXNZIElzTGFiZWxBdXRvRml0PSJGYWxzZSI+DQogICAgICAgIDxNYWpvckdyaWQgTGluZUNvbG9yPSI2NCwgNjQsIDY0LCA2NCIgLz4NCiAgICAgIDwvQXhpc1k+DQogICAgICA8QXhpc1ggSXNMYWJlbEF1dG9GaXQ9IkZhbHNlIj4NCiAgICAgICAgPE1ham9yR3JpZCBMaW5lQ29sb3I9IjY0LCA2NCwgNjQsIDY0IiAvPg0KICAgICAgPC9BeGlzWD4NCiAgICAgIDxBeGlzWDIgSXNMYWJlbEF1dG9GaXQ9IkZhbHNlIj4NCiAgICAgICAgPE1ham9yR3JpZCBMaW5lQ29sb3I9IjY0LCA2NCwgNjQsIDY0IiAvPg0KICAgICAgPC9BeGlzWDI+DQogICAgICA8QXhpc1kyIElzTGFiZWxBdXRvRml0PSJGYWxzZSI+DQogICAgICAgIDxNYWpvckdyaWQgTGluZUNvbG9yPSI2NCwgNjQsIDY0LCA2NCIgLz4NCiAgICAgIDwvQXhpc1kyPg0KICAgIDwvQ2hhcnRBcmVhPg0KICA8L0NoYXJ0QXJlYXM+DQogIDxCb3JkZXJTa2luIFNraW5TdHlsZT0iRW1ib3NzIiAvPg0KPC9DaGFydD4=">
+        <MSChartSeries Name="Series3" Filter="[ChiTiet.ThanhTien]&gt;300000" XValue="[ChiTiet.TenSanPham]" YValue1="[ChiTiet.ThanhTien]"/>
+      </MSChartObject>
+    </ReportSummaryBand>
+    <PageFooterBand Name="PageFooter1" Top="693.2" Width="718.2" Height="56.7">
+      <TextObject Name="Text15" Top="18.9" Width="56.7" Height="18.9" Text="[Page]" HorzAlign="Center" Font="Arial, 10pt, style=Bold" TextFill.Color="Olive"/>
+      <TextObject Name="Text16" Left="94.5" Top="18.9" Width="56.7" Height="18.9" Text="[TotalPages#]" HorzAlign="Center" Font="Arial, 10pt, style=Bold" TextFill.Color="Olive"/>
+      <TextObject Name="Text17" Left="56.7" Top="18.9" Width="37.8" Height="18.9" Text="/" HorzAlign="Center" Font="Arial, 10pt, style=Bold" TextFill.Color="Olive"/>
+      <TextObject Name="Text13" Left="321.3" Top="9.45" Width="160.65" Height="18.9" Text="Tổng thành tiền" HorzAlign="Center" Font="Arial, 12pt, style=Bold" TextFill.Color="Red"/>
+      <TextObject Name="Text12" Left="491.4" Top="9.45" Width="132.3" Height="18.9" Text="[TongTien]" HorzAlign="Center" Font="Arial, 12pt, style=Bold"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

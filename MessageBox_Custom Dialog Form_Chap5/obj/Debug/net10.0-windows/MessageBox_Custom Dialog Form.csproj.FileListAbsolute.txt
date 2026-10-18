@@ -1,0 +1,17 @@
+D:\MessageBox_Custom Dialog Form\bin\Debug\net10.0-windows\MessageBox_Custom Dialog Form.exe
+D:\MessageBox_Custom Dialog Form\bin\Debug\net10.0-windows\MessageBox_Custom Dialog Form.deps.json
+D:\MessageBox_Custom Dialog Form\bin\Debug\net10.0-windows\MessageBox_Custom Dialog Form.runtimeconfig.json
+D:\MessageBox_Custom Dialog Form\bin\Debug\net10.0-windows\MessageBox_Custom Dialog Form.dll
+D:\MessageBox_Custom Dialog Form\bin\Debug\net10.0-windows\MessageBox_Custom Dialog Form.pdb
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom_Dialog_Form.Formchonkhachhang.resources
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom_Dialog_Form.Formthanhtoan.resources
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.csproj.GenerateResource.cache
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.AssemblyInfoInputs.cache
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.AssemblyInfo.cs
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.csproj.CoreCompileInputs.cache
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.dll
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\refint\MessageBox_Custom Dialog Form.dll
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.pdb
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\MessageBox_Custom Dialog Form.genruntimeconfig.cache
+D:\MessageBox_Custom Dialog Form\obj\Debug\net10.0-windows\ref\MessageBox_Custom Dialog Form.dll

@@ -1,0 +1,16 @@
+D:\GDI_FullChapterExample_Chap6\bin\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.exe
+D:\GDI_FullChapterExample_Chap6\bin\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.deps.json
+D:\GDI_FullChapterExample_Chap6\bin\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.runtimeconfig.json
+D:\GDI_FullChapterExample_Chap6\bin\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.dll
+D:\GDI_FullChapterExample_Chap6\bin\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.pdb
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.CardData.resources
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.csproj.GenerateResource.cache
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.GeneratedMSBuildEditorConfig.editorconfig
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.AssemblyInfoInputs.cache
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.AssemblyInfo.cs
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.csproj.CoreCompileInputs.cache
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.dll
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\refint\GDI_FullChapterExample_Chap6.dll
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.pdb
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\GDI_FullChapterExample_Chap6.genruntimeconfig.cache
+D:\GDI_FullChapterExample_Chap6\obj\Debug\net10.0-windows\ref\GDI_FullChapterExample_Chap6.dll

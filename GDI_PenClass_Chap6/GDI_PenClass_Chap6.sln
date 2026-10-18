@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDI_PenClass_Chap6", "GDI_PenClass_Chap6.csproj", "{B3D6D64D-102B-47CC-B1CD-E02EEE2FA1AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D6D64D-102B-47CC-B1CD-E02EEE2FA1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D6D64D-102B-47CC-B1CD-E02EEE2FA1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D6D64D-102B-47CC-B1CD-E02EEE2FA1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D6D64D-102B-47CC-B1CD-E02EEE2FA1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB65D70-000B-40F3-BB25-ED7E1BE157FA}
+	EndGlobalSection
+EndGlobal

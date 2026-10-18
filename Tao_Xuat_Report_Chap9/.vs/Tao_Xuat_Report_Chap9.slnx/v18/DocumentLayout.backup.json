@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9E5E7C-C5C8-415D-B790-695C4397134F}|Tao_Xuat_Report_Chap9.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\tao_xuat_report_chap9\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9E5E7C-C5C8-415D-B790-695C4397134F}|Tao_Xuat_Report_Chap9.csproj|solutionrelative:services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E8E7F8-93DC-45F8-B5A8-10911F7E99C1}|Tao_Xuat_Report_Chap9.csproj|D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5E8E7F8-93DC-45F8-B5A8-10911F7E99C1}|Tao_Xuat_Report_Chap9.csproj|solutionrelative:form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9E5E7C-C5C8-415D-B790-695C4397134F}|Tao_Xuat_Report_Chap9.csproj|d:\\t\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y uit\\t\u00E0i li\u1EC7u utc2\\l\u1EADp tr\u00ECnh tr\u1EF1c quan\\code demo lt\\tao_xuat_report_chap9\\form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9E5E7C-C5C8-415D-B790-695C4397134F}|Tao_Xuat_Report_Chap9.csproj|solutionrelative:form\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\Form\\FormMain.cs",
+              "RelativeDocumentMoniker": "Form\\FormMain.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\Form\\FormMain.cs",
+              "RelativeToolTip": "Form\\FormMain.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:41:25.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\Form\\FormMain.cs",
+              "RelativeDocumentMoniker": "Form\\FormMain.cs",
+              "ToolTip": "D:\\Tao_Xuat_Report_Chap9\\Form\\FormMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Tao_Xuat_Report_Chap9\\Form\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:41:19.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services\\ReportService.cs",
+              "ToolTip": "D:\\T\u00E0i li\u1EC7u gi\u1EA3ng d\u1EA1y UIT\\T\u00E0i li\u1EC7u UTC2\\L\u1EADp tr\u00ECnh tr\u1EF1c quan\\Code demo LT\\Tao_Xuat_Report_Chap9\\Services\\ReportService.cs",
+              "RelativeToolTip": "Services\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:40:18.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
